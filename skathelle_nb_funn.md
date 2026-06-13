@@ -1,0 +1,389 @@
+# Skathelle — Research frå Nasjonalbiblioteket
+*Generert: 11.06.2026 17:12*
+
+## Søkeord: "skathelle"
+
+### Aviser — 113 treff totalt
+- **JSA : Jostedal skule- og bygdeavis. 2022 Vol. 45 66**
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/4c274f2fc1251ee3f0eb8e76c6ad688c)
+- **JSA : Jostedal skule- og bygdeavis. 2025 Vol. 48 69**
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/520969ce6ffc471bffa1934a4a5d434f)
+- **Sogn Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/0383b045a8825af62c53d659139edd89)
+- **Sogn og Fjordane **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/dd0d7278510d740033b193493e648965)
+- **Sogn Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/59fe4978afddb51498db0a6303dcfa0f)
+- **Sogn Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/833745e7e63afea61d259e17fc66ea7c)
+- **Sogn og Fjordane **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/6971033cb52499f7bb079555b3ffcd94)
+- **Adressetidende for Brevig, Stathelle, Langesund, Bamble og Eidanger **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/e144b608e1c438de820b046810d8f6bc)
+- **Adressetidende for Brevig, Stathelle, Langesund, Bamble og Eidanger **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/1367e43df7568708c177dd97f992bcd9)
+- **Adressetidende for Brevig, Stathelle, Langesund, Bamble og Eidanger **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/9a56b99e5f9b23f2461bc82d05a1c61d)
+- **Sogn Dagblad **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/f7c2d9cf5b5f44763efc8aa94a998a55)
+- **Vestlandske Tidende **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/9065120fb8e4ae251f5a0a3f48064d21)
+- **Sogningen-Sogns Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/9cdae8a429ba5a93bb9254356bdcc09e)
+- **Den Norske Rigstidende **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/13b8f6715b37d600a444e414bc8af998)
+- **Adressetidende for Brevig, Stathelle, Langesund, Bamble og Eidanger **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/aa523d7e0447c1890f61fc4ddbd5b8ea)
+- **Adressetidende for Brevig, Stathelle, Langesund, Bamble og Eidanger **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/42530cccbc9d4328e60414fda455d0bd)
+- **Sogn og Fjordane **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/86477e89f319343d1b2ebbbae00a069a)
+- **Adressetidende for Brevig, Stathelle, Langesund, Bamble og Eidanger **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/18489da6c0b249288fd836fc7b0db77a)
+- **Langesunds Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/e1132436e3508dddae281c69f0e2d1b3)
+- **Adressetidende for Brevig, Stathelle, Langesund, Bamble og Eidanger **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/608dd1f0498fb8707cf16e26c2c45dea)
+
+### Alt materiale — 113 treff totalt
+- **JSA : Jostedal skule- og bygdeavis. 2022 Vol. 45 66**
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/4c274f2fc1251ee3f0eb8e76c6ad688c)
+- **JSA : Jostedal skule- og bygdeavis. 2025 Vol. 48 69**
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/520969ce6ffc471bffa1934a4a5d434f)
+- **Sogn Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/0383b045a8825af62c53d659139edd89)
+- **Sogn og Fjordane **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/dd0d7278510d740033b193493e648965)
+- **Sogn Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/59fe4978afddb51498db0a6303dcfa0f)
+- **Sogn Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/833745e7e63afea61d259e17fc66ea7c)
+- **Sogn og Fjordane **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/6971033cb52499f7bb079555b3ffcd94)
+- **Adressetidende for Brevig, Stathelle, Langesund, Bamble og Eidanger **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/e144b608e1c438de820b046810d8f6bc)
+- **Adressetidende for Brevig, Stathelle, Langesund, Bamble og Eidanger **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/1367e43df7568708c177dd97f992bcd9)
+- **Adressetidende for Brevig, Stathelle, Langesund, Bamble og Eidanger **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/9a56b99e5f9b23f2461bc82d05a1c61d)
+- **Sogn Dagblad **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/f7c2d9cf5b5f44763efc8aa94a998a55)
+- **Vestlandske Tidende **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/9065120fb8e4ae251f5a0a3f48064d21)
+- **Sogningen-Sogns Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/9cdae8a429ba5a93bb9254356bdcc09e)
+- **Den Norske Rigstidende **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/13b8f6715b37d600a444e414bc8af998)
+- **Adressetidende for Brevig, Stathelle, Langesund, Bamble og Eidanger **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/aa523d7e0447c1890f61fc4ddbd5b8ea)
+- **Adressetidende for Brevig, Stathelle, Langesund, Bamble og Eidanger **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/42530cccbc9d4328e60414fda455d0bd)
+- **Sogn og Fjordane **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/86477e89f319343d1b2ebbbae00a069a)
+- **Adressetidende for Brevig, Stathelle, Langesund, Bamble og Eidanger **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/18489da6c0b249288fd836fc7b0db77a)
+- **Langesunds Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/e1132436e3508dddae281c69f0e2d1b3)
+- **Adressetidende for Brevig, Stathelle, Langesund, Bamble og Eidanger **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/608dd1f0498fb8707cf16e26c2c45dea)
+
+## Søkeord: "skathellekasting"
+
+### Aviser — 231 treff totalt
+- **Fjordingen : bygdeblad for Nordfjord **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/d72631550c5ac68d7732ed630f763066)
+- **Sogningen-Sogns Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/82b2c125e17141cbca22a7a21b4064bf)
+- **Sogn og Fjordane **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/c39c97ed2ee7668e2f635aa9ce260e6c)
+- **Sogn og Fjordane **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/13bbf30557690a18a205219c0b37a1d0)
+- **Sogn Dagblad **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/f7c2d9cf5b5f44763efc8aa94a998a55)
+- **Sogningen-Sogns Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/db2668b95450452d534aef09e8c7025d)
+- **Sogn og Fjordane **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/dd0d7278510d740033b193493e648965)
+- **Bustudl : leikar, rim og regler samla inn av Gaupne barnehage 1992**
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/a7b41734d433ecf9bea0d8448fc69981)
+- **Sogningen-Sogns Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/9cdae8a429ba5a93bb9254356bdcc09e)
+- **Firda Folkeblad (Florø: 1919-1942, 1945-) **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/9099fb9cdc8acfe05c9f5aee6c8e0ebc)
+- **Sogn Dagblad **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/74bc44f94d420de7f45fd664c951a9a1)
+- **Sogningen-Sogns Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/79b8e07d89d14bdeb54b62baa77bdbb0)
+- **VG **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/fc6e927a87f6f07ecb6fb9f50ef7259f)
+- **Sogn og Fjordane **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/11d6b3b1e4282176f1d344a670d544e5)
+- **Sogningen-Sogns Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/36835ed2bb94363b0ec0a798a5af022f)
+- **Sogn og Fjordane **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/d437e2ddd775719bf6cc029e7a04f8d4)
+- **Sogningen-Sogns Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/408e4b7256ff0d66dbf47afc8583b7a1)
+- **Sogn og Fjordane **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/f9ed4c30ecdad16718926ca71ad86190)
+- **Sogningen-Sogns Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/c771606e4d5834568bf4c319395343e0)
+- **Bergens Tidende **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/76df4afbf2a91d4bf6cf0a8581882f8d)
+
+### Alt materiale — 231 treff totalt
+- **Fjordingen : bygdeblad for Nordfjord **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/d72631550c5ac68d7732ed630f763066)
+- **Sogningen-Sogns Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/82b2c125e17141cbca22a7a21b4064bf)
+- **Sogn og Fjordane **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/c39c97ed2ee7668e2f635aa9ce260e6c)
+- **Sogn og Fjordane **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/13bbf30557690a18a205219c0b37a1d0)
+- **Sogn Dagblad **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/f7c2d9cf5b5f44763efc8aa94a998a55)
+- **Sogningen-Sogns Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/db2668b95450452d534aef09e8c7025d)
+- **Sogn og Fjordane **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/dd0d7278510d740033b193493e648965)
+- **Bustudl : leikar, rim og regler samla inn av Gaupne barnehage 1992**
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/a7b41734d433ecf9bea0d8448fc69981)
+- **Sogningen-Sogns Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/9cdae8a429ba5a93bb9254356bdcc09e)
+- **Firda Folkeblad (Florø: 1919-1942, 1945-) **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/9099fb9cdc8acfe05c9f5aee6c8e0ebc)
+- **Sogn Dagblad **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/74bc44f94d420de7f45fd664c951a9a1)
+- **Sogningen-Sogns Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/79b8e07d89d14bdeb54b62baa77bdbb0)
+- **VG **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/fc6e927a87f6f07ecb6fb9f50ef7259f)
+- **Sogn og Fjordane **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/11d6b3b1e4282176f1d344a670d544e5)
+- **Sogningen-Sogns Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/36835ed2bb94363b0ec0a798a5af022f)
+- **Sogn og Fjordane **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/d437e2ddd775719bf6cc029e7a04f8d4)
+- **Sogningen-Sogns Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/408e4b7256ff0d66dbf47afc8583b7a1)
+- **Sogn og Fjordane **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/f9ed4c30ecdad16718926ca71ad86190)
+- **Sogningen-Sogns Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/c771606e4d5834568bf4c319395343e0)
+- **Bergens Tidende **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/76df4afbf2a91d4bf6cf0a8581882f8d)
+
+## Søkeord: "skathelle jostedalen"
+
+### Aviser — 59 treff totalt
+- **JSA : Jostedal skule- og bygdeavis. 2022 Vol. 45 66**
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/4c274f2fc1251ee3f0eb8e76c6ad688c)
+- **JSA : Jostedal skule- og bygdeavis. 2025 Vol. 48 69**
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/520969ce6ffc471bffa1934a4a5d434f)
+- **Sogn Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/59fe4978afddb51498db0a6303dcfa0f)
+- **Sogn Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/0383b045a8825af62c53d659139edd89)
+- **Sogningen-Sogns Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/9cdae8a429ba5a93bb9254356bdcc09e)
+- **Sogn Dagblad **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/f7c2d9cf5b5f44763efc8aa94a998a55)
+- **Sogn og Fjordane **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/86477e89f319343d1b2ebbbae00a069a)
+- **Sogn Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/e052daa53442368a8c19b444e7b60a5e)
+- **Sogn Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/d5d5cc03c07b3f737000c7a18e5efdf1)
+- **Sogn Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/ac7d51d9636bc31eb678bf92ead8f494)
+- **Sogn og Fjordane **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/6971033cb52499f7bb079555b3ffcd94)
+- **Sogn Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/c168c61c03084699b08212c10cdeb695)
+- **Sogn og Fjordane **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/ccfbe9a02921b5faf074a5b047bca89e)
+- **Sogn og Fjordane **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/ef8a2b5a9e2845ff20a9420f69376e3f)
+- **JSA : Jostedal skule- og bygdeavis. 2014 Vol. 37 58**
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/c6ea39b0d51f2b6b7d091d388492ea51)
+- **Sogn og Fjordane **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/c39c97ed2ee7668e2f635aa9ce260e6c)
+- **Sogn Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/eac0b1b1a73496b104720c482b4f2a1b)
+- **Sogn og Fjordane **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/f9ed4c30ecdad16718926ca71ad86190)
+- **Sogn Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/cd6f9c93ecebc89b9b6c774337ba09a0)
+- **Sogn Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/14e745a59c8c7ae38764075dda307721)
+
+### Alt materiale — 59 treff totalt
+- **JSA : Jostedal skule- og bygdeavis. 2022 Vol. 45 66**
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/4c274f2fc1251ee3f0eb8e76c6ad688c)
+- **JSA : Jostedal skule- og bygdeavis. 2025 Vol. 48 69**
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/520969ce6ffc471bffa1934a4a5d434f)
+- **Sogn Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/59fe4978afddb51498db0a6303dcfa0f)
+- **Sogn Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/0383b045a8825af62c53d659139edd89)
+- **Sogningen-Sogns Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/9cdae8a429ba5a93bb9254356bdcc09e)
+- **Sogn Dagblad **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/f7c2d9cf5b5f44763efc8aa94a998a55)
+- **Sogn og Fjordane **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/86477e89f319343d1b2ebbbae00a069a)
+- **Sogn Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/e052daa53442368a8c19b444e7b60a5e)
+- **Sogn Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/d5d5cc03c07b3f737000c7a18e5efdf1)
+- **Sogn Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/ac7d51d9636bc31eb678bf92ead8f494)
+- **Sogn og Fjordane **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/6971033cb52499f7bb079555b3ffcd94)
+- **Sogn Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/c168c61c03084699b08212c10cdeb695)
+- **Sogn og Fjordane **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/ccfbe9a02921b5faf074a5b047bca89e)
+- **Sogn og Fjordane **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/ef8a2b5a9e2845ff20a9420f69376e3f)
+- **JSA : Jostedal skule- og bygdeavis. 2014 Vol. 37 58**
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/c6ea39b0d51f2b6b7d091d388492ea51)
+- **Sogn og Fjordane **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/c39c97ed2ee7668e2f635aa9ce260e6c)
+- **Sogn Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/eac0b1b1a73496b104720c482b4f2a1b)
+- **Sogn og Fjordane **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/f9ed4c30ecdad16718926ca71ad86190)
+- **Sogn Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/cd6f9c93ecebc89b9b6c774337ba09a0)
+- **Sogn Avis **
+  - År: ukjend
+  - [Opne på nb.no](https://api.nb.no:443/catalog/v1/items/14e745a59c8c7ae38764075dda307721)
+
+---
+## Manuelle søkelenker
+
+- [nb.no avissøk: skathelle](https://www.nb.no/search?q=skathelle&mediatype=aviser)
+- [nb.no avissøk: skathellekasting](https://www.nb.no/search?q=skathellekasting&mediatype=aviser)
+- [nb.no avissøk: skathelle jostedalen](https://www.nb.no/search?q=skathelle+jostedalen&mediatype=aviser)
+
+*NB: Ta screenshots av artiklar du finn. Spør historielaget om originaldokument.*

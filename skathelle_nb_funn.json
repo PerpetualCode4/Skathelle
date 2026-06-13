@@ -1,0 +1,878 @@
+{
+  "skathelle": {
+    "Aviser": [
+      [
+        {
+          "tittel": "JSA : Jostedal skule- og bygdeavis. 2022 Vol. 45 66",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/4c274f2fc1251ee3f0eb8e76c6ad688c",
+          "id": "URN:NBN:no-nb_digitidsskrift_2024082383093_001"
+        },
+        {
+          "tittel": "JSA : Jostedal skule- og bygdeavis. 2025 Vol. 48 69",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/520969ce6ffc471bffa1934a4a5d434f",
+          "id": "URN:NBN:no-nb_plikttidsskrift_8bef7d8b-c518-40bd-b2c9-8cbbc9c25cf8"
+        },
+        {
+          "tittel": "Sogn Avis ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/0383b045a8825af62c53d659139edd89",
+          "id": "URN:NBN:no-nb_digavis_sognavis_null_null_19960722_4_139_1"
+        },
+        {
+          "tittel": "Sogn og Fjordane ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/dd0d7278510d740033b193493e648965",
+          "id": "URN:NBN:no-nb_digavis_sognogfjordane_null_null_19780719_46_80_1"
+        },
+        {
+          "tittel": "Sogn Avis ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/59fe4978afddb51498db0a6303dcfa0f",
+          "id": "URN:NBN:no-nb_digavis_sognavis_null_null_19940719_2_135_1"
+        },
+        {
+          "tittel": "Sogn Avis ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/833745e7e63afea61d259e17fc66ea7c",
+          "id": "URN:NBN:no-nb_digavis_sognavis_null_null_20070723_1_139_1"
+        },
+        {
+          "tittel": "Sogn og Fjordane ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/6971033cb52499f7bb079555b3ffcd94",
+          "id": "URN:NBN:no-nb_digavis_sognogfjordane_null_null_19570726_26_84_1"
+        },
+        {
+          "tittel": "Adressetidende for Brevig, Stathelle, Langesund, Bamble og Eidanger ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/e144b608e1c438de820b046810d8f6bc",
+          "id": "URN:NBN:no-nb_digavis_adressetidendeforbrevig_null_null_18650114_17_4_1"
+        },
+        {
+          "tittel": "Adressetidende for Brevig, Stathelle, Langesund, Bamble og Eidanger ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/1367e43df7568708c177dd97f992bcd9",
+          "id": "URN:NBN:no-nb_digavis_adressetidendeforbrevig_null_null_18491103_1_36_2"
+        },
+        {
+          "tittel": "Adressetidende for Brevig, Stathelle, Langesund, Bamble og Eidanger ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/9a56b99e5f9b23f2461bc82d05a1c61d",
+          "id": "URN:NBN:no-nb_digavis_adressetidendeforbrevig_null_null_18631121_15_93_1"
+        },
+        {
+          "tittel": "Sogn Dagblad ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/f7c2d9cf5b5f44763efc8aa94a998a55",
+          "id": "URN:NBN:no-nb_digavis_sogndagblad_null_null_19920730_1_162_1"
+        },
+        {
+          "tittel": "Vestlandske Tidende ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/9065120fb8e4ae251f5a0a3f48064d21",
+          "id": "URN:NBN:no-nb_digavis_vestlandsketidende_null_null_18430418_1_84_1"
+        },
+        {
+          "tittel": "Sogningen-Sogns Avis ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/9cdae8a429ba5a93bb9254356bdcc09e",
+          "id": "URN:NBN:no-nb_digavis_sogningensognsavis_null_null_19870721_1_81_1"
+        },
+        {
+          "tittel": "Den Norske Rigstidende ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/13b8f6715b37d600a444e414bc8af998",
+          "id": "URN:NBN:no-nb_digavis_dennorskerigstidende_null_null_18820630_1_124_1"
+        },
+        {
+          "tittel": "Adressetidende for Brevig, Stathelle, Langesund, Bamble og Eidanger ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/aa523d7e0447c1890f61fc4ddbd5b8ea",
+          "id": "URN:NBN:no-nb_digavis_adressetidendeforbrevig_null_null_18560308_8_20_1"
+        },
+        {
+          "tittel": "Adressetidende for Brevig, Stathelle, Langesund, Bamble og Eidanger ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/42530cccbc9d4328e60414fda455d0bd",
+          "id": "URN:NBN:no-nb_digavis_adressetidendeforbrevig_null_null_18970410_48_29_1"
+        },
+        {
+          "tittel": "Sogn og Fjordane ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/86477e89f319343d1b2ebbbae00a069a",
+          "id": "URN:NBN:no-nb_digavis_sognogfjordane_null_null_19830715_51_80_1"
+        },
+        {
+          "tittel": "Adressetidende for Brevig, Stathelle, Langesund, Bamble og Eidanger ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/18489da6c0b249288fd836fc7b0db77a",
+          "id": "URN:NBN:no-nb_digavis_adressetidendeforbrevig_null_null_18920315_43_21_1"
+        },
+        {
+          "tittel": "Langesunds Avis ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/e1132436e3508dddae281c69f0e2d1b3",
+          "id": "URN:NBN:no-nb_digavis_langesundsavis_null_null_18970716_2_27_1"
+        },
+        {
+          "tittel": "Adressetidende for Brevig, Stathelle, Langesund, Bamble og Eidanger ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/608dd1f0498fb8707cf16e26c2c45dea",
+          "id": "URN:NBN:no-nb_digavis_adressetidendeforbrevig_null_null_18910814_42_65_1"
+        }
+      ],
+      "113 treff totalt"
+    ],
+    "Alt materiale": [
+      [
+        {
+          "tittel": "JSA : Jostedal skule- og bygdeavis. 2022 Vol. 45 66",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/4c274f2fc1251ee3f0eb8e76c6ad688c"
+        },
+        {
+          "tittel": "JSA : Jostedal skule- og bygdeavis. 2025 Vol. 48 69",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/520969ce6ffc471bffa1934a4a5d434f"
+        },
+        {
+          "tittel": "Sogn Avis ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/0383b045a8825af62c53d659139edd89"
+        },
+        {
+          "tittel": "Sogn og Fjordane ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/dd0d7278510d740033b193493e648965"
+        },
+        {
+          "tittel": "Sogn Avis ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/59fe4978afddb51498db0a6303dcfa0f"
+        },
+        {
+          "tittel": "Sogn Avis ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/833745e7e63afea61d259e17fc66ea7c"
+        },
+        {
+          "tittel": "Sogn og Fjordane ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/6971033cb52499f7bb079555b3ffcd94"
+        },
+        {
+          "tittel": "Adressetidende for Brevig, Stathelle, Langesund, Bamble og Eidanger ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/e144b608e1c438de820b046810d8f6bc"
+        },
+        {
+          "tittel": "Adressetidende for Brevig, Stathelle, Langesund, Bamble og Eidanger ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/1367e43df7568708c177dd97f992bcd9"
+        },
+        {
+          "tittel": "Adressetidende for Brevig, Stathelle, Langesund, Bamble og Eidanger ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/9a56b99e5f9b23f2461bc82d05a1c61d"
+        },
+        {
+          "tittel": "Sogn Dagblad ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/f7c2d9cf5b5f44763efc8aa94a998a55"
+        },
+        {
+          "tittel": "Vestlandske Tidende ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/9065120fb8e4ae251f5a0a3f48064d21"
+        },
+        {
+          "tittel": "Sogningen-Sogns Avis ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/9cdae8a429ba5a93bb9254356bdcc09e"
+        },
+        {
+          "tittel": "Den Norske Rigstidende ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/13b8f6715b37d600a444e414bc8af998"
+        },
+        {
+          "tittel": "Adressetidende for Brevig, Stathelle, Langesund, Bamble og Eidanger ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/aa523d7e0447c1890f61fc4ddbd5b8ea"
+        },
+        {
+          "tittel": "Adressetidende for Brevig, Stathelle, Langesund, Bamble og Eidanger ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/42530cccbc9d4328e60414fda455d0bd"
+        },
+        {
+          "tittel": "Sogn og Fjordane ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/86477e89f319343d1b2ebbbae00a069a"
+        },
+        {
+          "tittel": "Adressetidende for Brevig, Stathelle, Langesund, Bamble og Eidanger ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/18489da6c0b249288fd836fc7b0db77a"
+        },
+        {
+          "tittel": "Langesunds Avis ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/e1132436e3508dddae281c69f0e2d1b3"
+        },
+        {
+          "tittel": "Adressetidende for Brevig, Stathelle, Langesund, Bamble og Eidanger ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/608dd1f0498fb8707cf16e26c2c45dea"
+        }
+      ],
+      "113 treff totalt"
+    ]
+  },
+  "skathellekasting": {
+    "Aviser": [
+      [
+        {
+          "tittel": "Fjordingen : bygdeblad for Nordfjord ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/d72631550c5ac68d7732ed630f763066",
+          "id": "URN:NBN:no-nb_digavis_fjordingen_null_null_19790810_45_91_1"
+        },
+        {
+          "tittel": "Sogningen-Sogns Avis ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/82b2c125e17141cbca22a7a21b4064bf",
+          "id": "URN:NBN:no-nb_digavis_sogningensognsavis_null_null_19850711_49_80_1"
+        },
+        {
+          "tittel": "Sogn og Fjordane ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/c39c97ed2ee7668e2f635aa9ce260e6c",
+          "id": "URN:NBN:no-nb_digavis_sognogfjordane_null_null_19870722_55_82_1"
+        },
+        {
+          "tittel": "Sogn og Fjordane ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/13bbf30557690a18a205219c0b37a1d0",
+          "id": "URN:NBN:no-nb_digavis_sognogfjordane_null_null_19840706_52_77_1"
+        },
+        {
+          "tittel": "Sogn Dagblad ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/f7c2d9cf5b5f44763efc8aa94a998a55",
+          "id": "URN:NBN:no-nb_digavis_sogndagblad_null_null_19920730_1_162_1"
+        },
+        {
+          "tittel": "Sogningen-Sogns Avis ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/db2668b95450452d534aef09e8c7025d",
+          "id": "URN:NBN:no-nb_digavis_sogningensognsavis_null_null_19870716_1_79_1"
+        },
+        {
+          "tittel": "Sogn og Fjordane ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/dd0d7278510d740033b193493e648965",
+          "id": "URN:NBN:no-nb_digavis_sognogfjordane_null_null_19780719_46_80_1"
+        },
+        {
+          "tittel": "Bustudl : leikar, rim og regler samla inn av Gaupne barnehage 1992",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/a7b41734d433ecf9bea0d8448fc69981",
+          "id": "URN:NBN:no-nb_digibok_2012071808182"
+        },
+        {
+          "tittel": "Sogningen-Sogns Avis ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/9cdae8a429ba5a93bb9254356bdcc09e",
+          "id": "URN:NBN:no-nb_digavis_sogningensognsavis_null_null_19870721_1_81_1"
+        },
+        {
+          "tittel": "Firda Folkeblad (Florø: 1919-1942, 1945-) ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/9099fb9cdc8acfe05c9f5aee6c8e0ebc",
+          "id": "URN:NBN:no-nb_digavis_firdafolkeblad_null_null_19790806_74_59_1"
+        },
+        {
+          "tittel": "Sogn Dagblad ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/74bc44f94d420de7f45fd664c951a9a1",
+          "id": "URN:NBN:no-nb_digavis_sogndagblad_null_null_19790807_38_161_1"
+        },
+        {
+          "tittel": "Sogningen-Sogns Avis ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/79b8e07d89d14bdeb54b62baa77bdbb0",
+          "id": "URN:NBN:no-nb_digavis_sogningensognsavis_null_null_19840705_1_77_1"
+        },
+        {
+          "tittel": "VG ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/fc6e927a87f6f07ecb6fb9f50ef7259f",
+          "id": "URN:NBN:no-nb_digavis_verdensgang_null_null_19790809_35_181_1"
+        },
+        {
+          "tittel": "Sogn og Fjordane ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/11d6b3b1e4282176f1d344a670d544e5",
+          "id": "URN:NBN:no-nb_digavis_sognogfjordane_null_null_19790718_47_82_1"
+        },
+        {
+          "tittel": "Sogningen-Sogns Avis ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/36835ed2bb94363b0ec0a798a5af022f",
+          "id": "URN:NBN:no-nb_digavis_sogningensognsavis_null_null_19920725_96_85_1"
+        },
+        {
+          "tittel": "Sogn og Fjordane ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/d437e2ddd775719bf6cc029e7a04f8d4",
+          "id": "URN:NBN:no-nb_digavis_sognogfjordane_null_null_19900713_58_79_1"
+        },
+        {
+          "tittel": "Sogningen-Sogns Avis ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/408e4b7256ff0d66dbf47afc8583b7a1",
+          "id": "URN:NBN:no-nb_digavis_sogningensognsavis_null_null_19880705_1_76_1"
+        },
+        {
+          "tittel": "Sogn og Fjordane ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/f9ed4c30ecdad16718926ca71ad86190",
+          "id": "URN:NBN:no-nb_digavis_sognogfjordane_null_null_19790827_47_99_1"
+        },
+        {
+          "tittel": "Sogningen-Sogns Avis ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/c771606e4d5834568bf4c319395343e0",
+          "id": "URN:NBN:no-nb_digavis_sogningensognsavis_null_null_19780729_82_86_1"
+        },
+        {
+          "tittel": "Bergens Tidende ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/76df4afbf2a91d4bf6cf0a8581882f8d",
+          "id": "URN:NBN:no-nb_digavis_bergenstidende_null_null_19790828_112_197_1"
+        }
+      ],
+      "231 treff totalt"
+    ],
+    "Alt materiale": [
+      [
+        {
+          "tittel": "Fjordingen : bygdeblad for Nordfjord ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/d72631550c5ac68d7732ed630f763066"
+        },
+        {
+          "tittel": "Sogningen-Sogns Avis ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/82b2c125e17141cbca22a7a21b4064bf"
+        },
+        {
+          "tittel": "Sogn og Fjordane ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/c39c97ed2ee7668e2f635aa9ce260e6c"
+        },
+        {
+          "tittel": "Sogn og Fjordane ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/13bbf30557690a18a205219c0b37a1d0"
+        },
+        {
+          "tittel": "Sogn Dagblad ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/f7c2d9cf5b5f44763efc8aa94a998a55"
+        },
+        {
+          "tittel": "Sogningen-Sogns Avis ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/db2668b95450452d534aef09e8c7025d"
+        },
+        {
+          "tittel": "Sogn og Fjordane ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/dd0d7278510d740033b193493e648965"
+        },
+        {
+          "tittel": "Bustudl : leikar, rim og regler samla inn av Gaupne barnehage 1992",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/a7b41734d433ecf9bea0d8448fc69981"
+        },
+        {
+          "tittel": "Sogningen-Sogns Avis ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/9cdae8a429ba5a93bb9254356bdcc09e"
+        },
+        {
+          "tittel": "Firda Folkeblad (Florø: 1919-1942, 1945-) ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/9099fb9cdc8acfe05c9f5aee6c8e0ebc"
+        },
+        {
+          "tittel": "Sogn Dagblad ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/74bc44f94d420de7f45fd664c951a9a1"
+        },
+        {
+          "tittel": "Sogningen-Sogns Avis ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/79b8e07d89d14bdeb54b62baa77bdbb0"
+        },
+        {
+          "tittel": "VG ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/fc6e927a87f6f07ecb6fb9f50ef7259f"
+        },
+        {
+          "tittel": "Sogn og Fjordane ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/11d6b3b1e4282176f1d344a670d544e5"
+        },
+        {
+          "tittel": "Sogningen-Sogns Avis ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/36835ed2bb94363b0ec0a798a5af022f"
+        },
+        {
+          "tittel": "Sogn og Fjordane ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/d437e2ddd775719bf6cc029e7a04f8d4"
+        },
+        {
+          "tittel": "Sogningen-Sogns Avis ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/408e4b7256ff0d66dbf47afc8583b7a1"
+        },
+        {
+          "tittel": "Sogn og Fjordane ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/f9ed4c30ecdad16718926ca71ad86190"
+        },
+        {
+          "tittel": "Sogningen-Sogns Avis ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/c771606e4d5834568bf4c319395343e0"
+        },
+        {
+          "tittel": "Bergens Tidende ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/76df4afbf2a91d4bf6cf0a8581882f8d"
+        }
+      ],
+      "231 treff totalt"
+    ]
+  },
+  "skathelle jostedalen": {
+    "Aviser": [
+      [
+        {
+          "tittel": "JSA : Jostedal skule- og bygdeavis. 2022 Vol. 45 66",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/4c274f2fc1251ee3f0eb8e76c6ad688c",
+          "id": "URN:NBN:no-nb_digitidsskrift_2024082383093_001"
+        },
+        {
+          "tittel": "JSA : Jostedal skule- og bygdeavis. 2025 Vol. 48 69",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/520969ce6ffc471bffa1934a4a5d434f",
+          "id": "URN:NBN:no-nb_plikttidsskrift_8bef7d8b-c518-40bd-b2c9-8cbbc9c25cf8"
+        },
+        {
+          "tittel": "Sogn Avis ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/59fe4978afddb51498db0a6303dcfa0f",
+          "id": "URN:NBN:no-nb_digavis_sognavis_null_null_19940719_2_135_1"
+        },
+        {
+          "tittel": "Sogn Avis ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/0383b045a8825af62c53d659139edd89",
+          "id": "URN:NBN:no-nb_digavis_sognavis_null_null_19960722_4_139_1"
+        },
+        {
+          "tittel": "Sogningen-Sogns Avis ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/9cdae8a429ba5a93bb9254356bdcc09e",
+          "id": "URN:NBN:no-nb_digavis_sogningensognsavis_null_null_19870721_1_81_1"
+        },
+        {
+          "tittel": "Sogn Dagblad ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/f7c2d9cf5b5f44763efc8aa94a998a55",
+          "id": "URN:NBN:no-nb_digavis_sogndagblad_null_null_19920730_1_162_1"
+        },
+        {
+          "tittel": "Sogn og Fjordane ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/86477e89f319343d1b2ebbbae00a069a",
+          "id": "URN:NBN:no-nb_digavis_sognogfjordane_null_null_19830715_51_80_1"
+        },
+        {
+          "tittel": "Sogn Avis ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/e052daa53442368a8c19b444e7b60a5e",
+          "id": "URN:NBN:no-nb_digavis_sognavis_null_null_19970717_5_135_1"
+        },
+        {
+          "tittel": "Sogn Avis ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/d5d5cc03c07b3f737000c7a18e5efdf1",
+          "id": "URN:NBN:no-nb_digavis_sognavis_null_null_20240730_0_59_1"
+        },
+        {
+          "tittel": "Sogn Avis ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/ac7d51d9636bc31eb678bf92ead8f494",
+          "id": "URN:NBN:no-nb_digavis_sognavis_null_null_20090715_0_134_1"
+        },
+        {
+          "tittel": "Sogn og Fjordane ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/6971033cb52499f7bb079555b3ffcd94",
+          "id": "URN:NBN:no-nb_digavis_sognogfjordane_null_null_19570726_26_84_1"
+        },
+        {
+          "tittel": "Sogn Avis ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/c168c61c03084699b08212c10cdeb695",
+          "id": "URN:NBN:no-nb_digavis_sognavis_null_null_20060724_1_139_1"
+        },
+        {
+          "tittel": "Sogn og Fjordane ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/ccfbe9a02921b5faf074a5b047bca89e",
+          "id": "URN:NBN:no-nb_digavis_sognogfjordane_null_null_19870720_55_81_1"
+        },
+        {
+          "tittel": "Sogn og Fjordane ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/ef8a2b5a9e2845ff20a9420f69376e3f",
+          "id": "URN:NBN:no-nb_digavis_sognogfjordane_null_null_19910712_59_77_1"
+        },
+        {
+          "tittel": "JSA : Jostedal skule- og bygdeavis. 2014 Vol. 37 58",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/c6ea39b0d51f2b6b7d091d388492ea51",
+          "id": "URN:NBN:no-nb_digitidsskrift_2024071280018_006"
+        },
+        {
+          "tittel": "Sogn og Fjordane ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/c39c97ed2ee7668e2f635aa9ce260e6c",
+          "id": "URN:NBN:no-nb_digavis_sognogfjordane_null_null_19870722_55_82_1"
+        },
+        {
+          "tittel": "Sogn Avis ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/eac0b1b1a73496b104720c482b4f2a1b",
+          "id": "URN:NBN:no-nb_digavis_sognavis_null_null_20230727_0_60_1"
+        },
+        {
+          "tittel": "Sogn og Fjordane ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/f9ed4c30ecdad16718926ca71ad86190",
+          "id": "URN:NBN:no-nb_digavis_sognogfjordane_null_null_19790827_47_99_1"
+        },
+        {
+          "tittel": "Sogn Avis ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/cd6f9c93ecebc89b9b6c774337ba09a0",
+          "id": "URN:NBN:no-nb_digavis_sognavis_null_null_20250717_0_54_1"
+        },
+        {
+          "tittel": "Sogn Avis ",
+          "år": "ukjend",
+          "avis": "",
+          "stad": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/14e745a59c8c7ae38764075dda307721",
+          "id": "URN:NBN:no-nb_digavis_sognavis_null_null_20230803_0_62_1"
+        }
+      ],
+      "59 treff totalt"
+    ],
+    "Alt materiale": [
+      [
+        {
+          "tittel": "JSA : Jostedal skule- og bygdeavis. 2022 Vol. 45 66",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/4c274f2fc1251ee3f0eb8e76c6ad688c"
+        },
+        {
+          "tittel": "JSA : Jostedal skule- og bygdeavis. 2025 Vol. 48 69",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/520969ce6ffc471bffa1934a4a5d434f"
+        },
+        {
+          "tittel": "Sogn Avis ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/59fe4978afddb51498db0a6303dcfa0f"
+        },
+        {
+          "tittel": "Sogn Avis ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/0383b045a8825af62c53d659139edd89"
+        },
+        {
+          "tittel": "Sogningen-Sogns Avis ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/9cdae8a429ba5a93bb9254356bdcc09e"
+        },
+        {
+          "tittel": "Sogn Dagblad ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/f7c2d9cf5b5f44763efc8aa94a998a55"
+        },
+        {
+          "tittel": "Sogn og Fjordane ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/86477e89f319343d1b2ebbbae00a069a"
+        },
+        {
+          "tittel": "Sogn Avis ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/e052daa53442368a8c19b444e7b60a5e"
+        },
+        {
+          "tittel": "Sogn Avis ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/d5d5cc03c07b3f737000c7a18e5efdf1"
+        },
+        {
+          "tittel": "Sogn Avis ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/ac7d51d9636bc31eb678bf92ead8f494"
+        },
+        {
+          "tittel": "Sogn og Fjordane ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/6971033cb52499f7bb079555b3ffcd94"
+        },
+        {
+          "tittel": "Sogn Avis ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/c168c61c03084699b08212c10cdeb695"
+        },
+        {
+          "tittel": "Sogn og Fjordane ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/ccfbe9a02921b5faf074a5b047bca89e"
+        },
+        {
+          "tittel": "Sogn og Fjordane ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/ef8a2b5a9e2845ff20a9420f69376e3f"
+        },
+        {
+          "tittel": "JSA : Jostedal skule- og bygdeavis. 2014 Vol. 37 58",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/c6ea39b0d51f2b6b7d091d388492ea51"
+        },
+        {
+          "tittel": "Sogn og Fjordane ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/c39c97ed2ee7668e2f635aa9ce260e6c"
+        },
+        {
+          "tittel": "Sogn Avis ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/eac0b1b1a73496b104720c482b4f2a1b"
+        },
+        {
+          "tittel": "Sogn og Fjordane ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/f9ed4c30ecdad16718926ca71ad86190"
+        },
+        {
+          "tittel": "Sogn Avis ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/cd6f9c93ecebc89b9b6c774337ba09a0"
+        },
+        {
+          "tittel": "Sogn Avis ",
+          "år": "ukjend",
+          "type": "",
+          "url": "https://api.nb.no:443/catalog/v1/items/14e745a59c8c7ae38764075dda307721"
+        }
+      ],
+      "59 treff totalt"
+    ]
+  }
+}
