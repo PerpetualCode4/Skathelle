@@ -33,3 +33,33 @@ const observer = new IntersectionObserver(
 );
 
 reveals.forEach(el => observer.observe(el));
+
+// Lightbox for avisklipp
+const clippingTrigger = document.getElementById('clippingTrigger');
+const lightbox        = document.getElementById('lightbox');
+const lightboxClose   = document.getElementById('lightboxClose');
+
+if (clippingTrigger && lightbox && lightboxClose) {
+  const openLightbox = () => {
+    lightbox.classList.add('is-open');
+    lightbox.setAttribute('aria-hidden', 'false');
+  };
+
+  const closeLightbox = () => {
+    lightbox.classList.remove('is-open');
+    lightbox.setAttribute('aria-hidden', 'true');
+  };
+
+  clippingTrigger.addEventListener('click', openLightbox);
+  lightboxClose.addEventListener('click', closeLightbox);
+
+  lightbox.addEventListener('click', e => {
+    if (e.target === lightbox) closeLightbox();
+  });
+
+  document.addEventListener('keydown', e => {
+    if (e.key === 'Escape' && lightbox.classList.contains('is-open')) {
+      closeLightbox();
+    }
+  });
+}
