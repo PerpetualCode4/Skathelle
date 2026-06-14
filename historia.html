@@ -66,14 +66,14 @@
           <p>Skathellekasting vart spelt fleire stader i landet på 1930- og 40-talet. Sporten hadde si glanstid i desse tiåra.</p>
         </div>
         <div class="year-card" data-reveal data-delay="2">
-          <div class="year-num">19??</div>
-          <p class="year-cat">Berre i Jostedalen</p>
-          <p>Sporten dabba av andre stader i landet og overlevde berre i Jostedalen, der tradisjonen framleis vert halden levande.</p>
+          <div class="year-num">1950</div>
+          <p class="year-cat">Eldste kjende kjelde</p>
+          <p>Skathellekasting er dokumentert i Jostedalen frå 1950-talet. Eldre kjelder kan finnast — historielaget arbeider med å kartleggja dette.</p>
         </div>
         <div class="year-card" data-reveal data-delay="3">
-          <div class="year-num">2007</div>
-          <p class="year-cat">Dokumentert</p>
-          <p>Tidlege bloggpostar frå turneringa bidreg til å dokumentera historia og resultata for ettertida.</p>
+          <div class="year-num">19??</div>
+          <p class="year-cat">Berre i Jostedalen</p>
+          <p>Sporten dabba av andre stader i landet. Jostedalen er i dag det einaste staden tradisjonen lever vidare.</p>
         </div>
       </div>
     </div>
@@ -81,16 +81,60 @@
 
   <hr class="divider">
 
-  <!-- KJELDER PLACEHOLDER -->
+  <!-- TIDSLINJE -->
+  <section class="section timeline-section">
+    <div class="container">
+      <div data-reveal style="margin-bottom: 3.5rem;">
+        <span class="section-label">Tidslinje</span>
+        <h2 class="section-title">Skathellekasting gjennom tidene</h2>
+      </div>
+      <div class="timeline-wrap">
+        <button type="button" class="timeline-arrow timeline-arrow--prev" aria-label="Forrige hending">&#8592;</button>
+        <div class="timeline-track" id="timelineTrack" tabindex="0" aria-label="Tidslinje over skathellekasting. Bruk piltastane for å navigere"></div>
+        <button type="button" class="timeline-arrow timeline-arrow--next" aria-label="Neste hending">&#8594;</button>
+      </div>
+      <div class="timeline-dots" id="timelineDots"></div>
+    </div>
+  </section>
+
+  <hr class="divider">
+
+  <section class="section">
+    <div class="container">
+      <div class="two-col">
+        <div data-reveal>
+          <span class="section-label">Mannen bak tradisjonen</span>
+          <h2 class="section-title">Magne Hesjevoll</h2>
+          <p class="body-text">Magne Hesjevoll har i ei årrekkje vore trenar og ankerperson for skathellekasting i Jostedalen. Det var han som introduserte Brage Norberg og Lars Andreas Myklebust Neset for sporten.</p>
+          <p class="body-text">Intervju med Magne kjem.</p>
+        </div>
+        <div data-reveal data-delay="2">
+          <div class="img-wrap" style="aspect-ratio: 3/4; overflow:hidden;">
+            <img
+              src="Bilder/Magne_Hesjevoll_2023.jpg"
+              alt="Magne Hesjevoll ved Dølaheimen i Jostedalen, 2023"
+              class="img-filtered"
+              style="width:100%; height:100%; object-fit:cover; object-position: center 20%;"
+              loading="lazy"
+            >
+          </div>
+          <p style="font-size:0.75rem; color:var(--muted); letter-spacing:0.1em; text-transform:uppercase; margin-top:0.875rem;">
+            Magne Hesjevoll — Jostedalen, 2023
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <hr class="divider">
+
+  <!-- KJELDER -->
   <section class="section">
     <div class="container">
       <div data-reveal>
         <span class="section-label">Kjelder</span>
         <h2 class="section-title">Hjelp oss fylla inn historia</h2>
-        <p class="lead" style="margin-bottom: 3rem;">Fleire historiske dokument og bilete kjem. Sit du på kjelder, foto eller resultat frå tidlegare år — ta gjerne kontakt.</p>
-        <div class="placeholder-box">
-          <p>Historiske bilete og dokument kjem. Ta kontakt viss du sit på kjelder.</p>
-        </div>
+        <p class="lead">Fleire historiske dokument og bilete kjem. Sit du på kjelder, foto eller resultat frå tidlegare år — ta gjerne kontakt.</p>
       </div>
     </div>
   </section>
@@ -101,6 +145,12 @@
       <p class="credit"><a href="https://norbergwebdesign.no" target="_blank" rel="noopener noreferrer">Nettside levert av Norberg Webdesign</a></p>
     </div>
   </footer>
+
+  <!-- TIDSLINJE LIGHTBOX -->
+  <div class="lightbox" id="timelineLightbox" aria-hidden="true">
+    <button type="button" class="lightbox-close" id="timelineLightboxClose" aria-label="Lukk forstørra bilete">&times;</button>
+    <img src="" alt="" class="lightbox-img" id="timelineLightboxImg">
+  </div>
 
   <script src="script.js"></script>
 </body>
