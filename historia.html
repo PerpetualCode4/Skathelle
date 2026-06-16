@@ -16,6 +16,7 @@
     <div class="container header-inner">
       <a href="index.html" class="logo">Skathelle.no</a>
       <nav class="nav" id="nav">
+        <a href="index.html">Heim</a>
         <a href="historia.html" class="active">Historia</a>
         <a href="reglar.html">Reglar</a>
         <a href="skathelle.html">Skathella</a>
@@ -52,48 +53,25 @@
 
   <hr class="divider">
 
-  <!-- ÅRSTAL-RAD -->
-  <section class="section section--alt">
-    <div class="container">
-      <div data-reveal style="margin-bottom: 3.5rem;">
-        <span class="section-label">Tidslinje</span>
-        <h2 class="section-title">Merkesteinar</h2>
-      </div>
-      <div class="card-grid card-grid--3">
-        <div class="year-card" data-reveal data-delay="1">
-          <div class="year-num">1930</div>
-          <p class="year-cat">Stordomstida</p>
-          <p>Skathellekasting vart spelt fleire stader i landet på 1930- og 40-talet. Sporten hadde si glanstid i desse tiåra.</p>
-        </div>
-        <div class="year-card" data-reveal data-delay="2">
-          <div class="year-num">1950</div>
-          <p class="year-cat">Eldste kjende kjelde</p>
-          <p>Skathellekasting er dokumentert i Jostedalen frå 1950-talet. Eldre kjelder kan finnast — historielaget arbeider med å kartleggja dette.</p>
-        </div>
-        <div class="year-card" data-reveal data-delay="3">
-          <div class="year-num">19??</div>
-          <p class="year-cat">Berre i Jostedalen</p>
-          <p>Sporten dabba av andre stader i landet. Jostedalen er i dag det einaste staden tradisjonen lever vidare.</p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <hr class="divider">
-
   <!-- TIDSLINJE -->
-  <section class="section timeline-section">
+  <section class="section">
     <div class="container">
-      <div data-reveal style="margin-bottom: 3.5rem;">
+      <div data-reveal style="margin-bottom: 3rem;">
         <span class="section-label">Tidslinje</span>
         <h2 class="section-title">Skathellekasting gjennom tidene</h2>
+        <p class="body-text">Scroll for å utforska historia.</p>
       </div>
-      <div class="timeline-wrap">
-        <button type="button" class="timeline-arrow timeline-arrow--prev" aria-label="Forrige hending">&#8592;</button>
-        <div class="timeline-track" id="timelineTrack" tabindex="0" aria-label="Tidslinje over skathellekasting. Bruk piltastane for å navigere"></div>
-        <button type="button" class="timeline-arrow timeline-arrow--next" aria-label="Neste hending">&#8594;</button>
+      <div class="tl-outer">
+        <div class="tl-track-row">
+          <button type="button" class="tl-arrow tl-arrow--prev" id="tlLeft" aria-label="Forrige hending">&#8592;</button>
+          <div class="tl-track-wrap">
+            <div class="tl-track" id="tlTrack" tabindex="0" aria-label="Tidslinje over skathellekasting. Bruk piltastane for å navigera"></div>
+          </div>
+          <button type="button" class="tl-arrow tl-arrow--next" id="tlRight" aria-label="Neste hending">&#8594;</button>
+        </div>
+        <div class="tl-content" id="tlContent"></div>
+        <div class="tl-dots" id="tlDots"></div>
       </div>
-      <div class="timeline-dots" id="timelineDots"></div>
     </div>
   </section>
 
