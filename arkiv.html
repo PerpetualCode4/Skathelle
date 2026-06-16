@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="nn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Arkiv over avisartiklar om skathellekasting i Jostedalen frå 1957 til i dag — over 120 kjelder.">
+  <title>Arkiv — Skathelle.no</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;0,900;1,400&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="index.html" class="logo">Skathelle.no</a>
+      <nav class="nav" id="nav">
+        <a href="index.html">Heim</a>
+        <a href="historia.html">Historia</a>
+        <a href="reglar.html">Reglar</a>
+        <a href="skathelle.html">Skathella</a>
+        <a href="meisterskap.html">Meisterskapet</a>
+        <a href="arkiv.html" class="active">Arkiv</a>
+        <a href="blogg.html">Blogg</a>
+      </nav>
+      <button class="hamburger" id="hamburger" aria-label="Opne meny" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <div class="hero-inner">
+    <div class="container">
+      <span class="hero-label">Arkiv</span>
+      <h1>Over 120 kjelder om skathellekasting</h1>
+      <p class="lead">Eit komplett arkiv over avisartiklar, foto og dokument frå 1957 til i dag. Klikk på eit årstal for å sjå alle kjelder frå det tiåret.</p>
+    </div>
+  </div>
+
+  <section class="section">
+    <div class="container">
+      <div class="ark-filter" id="arkFilter" data-reveal>
+        <button class="ark-pill is-active" data-decade="all">Alle</button>
+        <button class="ark-pill" data-decade="1950">1950-talet</button>
+        <button class="ark-pill" data-decade="1960">1960-talet</button>
+        <button class="ark-pill" data-decade="1970">1970-talet</button>
+        <button class="ark-pill" data-decade="1980">1980-talet</button>
+        <button class="ark-pill" data-decade="1990">1990-talet</button>
+        <button class="ark-pill" data-decade="2000">2000-talet</button>
+        <button class="ark-pill" data-decade="2010">2010-talet</button>
+      </div>
+      <p class="ark-count" id="arkCount"></p>
+      <div class="ark-grid" id="arkGrid"></div>
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>&#169; 2026 Skathelle.no</p>
+      <p class="credit"><a href="https://norbergwebdesign.no" target="_blank" rel="noopener noreferrer">Nettside levert av Norberg Webdesign</a></p>
+    </div>
+  </footer>
+
+  <div class="lightbox" id="arkLightbox" aria-hidden="true">
+    <button type="button" class="lightbox-close" id="arkLightboxClose" aria-label="Lukk">&times;</button>
+    <img src="" alt="" class="lightbox-img" id="arkLightboxImg">
+  </div>
+
+  <script src="arkiv.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
