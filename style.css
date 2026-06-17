@@ -670,20 +670,22 @@ a   { color: inherit; text-decoration: none; }
 
 .site-footer .credit {
   margin-top: 0.625rem;
-  font-size: 0.6875rem;
-  color: rgba(232, 228, 220, 0.18);
+  font-size: 0.75rem;
+  color: var(--text);
   letter-spacing: 0.09em;
   text-transform: uppercase;
 }
 
 .site-footer .credit a {
-  color: rgba(168, 214, 184, 0.35);
+  color: var(--accent);
   text-decoration: none;
-  transition: color 0.2s;
+  border-bottom: 1px solid rgba(200, 169, 110, 0.4);
+  transition: border-color 0.2s, opacity 0.2s;
 }
 
 .site-footer .credit a:hover {
-  color: rgba(168, 214, 184, 0.6);
+  opacity: 0.75;
+  border-color: var(--accent);
 }
 
 
@@ -970,6 +972,7 @@ a   { color: inherit; text-decoration: none; }
 @media (max-width: 767px) {
   .tl-content-inner {
     grid-template-columns: 1fr;
+    gap: 1.5rem;
   }
   .tl-arrow {
     display: none;
@@ -1164,4 +1167,31 @@ a   { color: inherit; text-decoration: none; }
   inset: 0;
   background: rgba(24, 24, 21, 0.82);
   z-index: 0;
+}
+
+/* MAGNE WRAP RESPONSIV */
+.magne-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.magne-wrap img {
+  width: 100%;
+  max-width: 560px;
+  display: block;
+  margin-left: -5rem;
+}
+
+@media (max-width: 767px) {
+  .magne-wrap {
+    align-items: center;
+  }
+  .magne-wrap img {
+    margin-left: 0;
+    max-width: 320px;
+  }
+  .magne-wrap p {
+    text-align: center;
+  }
 }
