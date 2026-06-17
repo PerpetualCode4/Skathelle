@@ -141,7 +141,7 @@ const arkivKjelder = [
     grid.innerHTML = filtered.map(k => `
       <article class="ark-card">
         <button class="ark-img-btn" onclick="openArkLightbox('Bilder/${k.fil}','${k.tittel.replace(/'/g,"\\'")}')">
-          <img src="Bilder/${k.fil}" alt="${k.tittel}" loading="lazy">
+          <img src="Bilder/${k.fil}" alt="${k.tittel}" loading="lazy" onerror="this.onerror=null;this.src='Bilder/UtenBilde.png';">
         </button>
         <div class="ark-card-body">
           <div class="ark-year">${k.ar}</div>
