@@ -9,6 +9,8 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;0,900;1,400&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
 </head>
 <body>
 
@@ -48,7 +50,7 @@
       <div data-reveal>
         <span class="section-label">Kvifor denne sida</span>
         <h2 class="section-title">Skathellekasting lever i Jostedalen</h2>
-        <p class="body-text">Skathellekasting er ein av dei eldste steinkastsporten i Noreg, og i dag er det berre i Jostedalen tradisjonen lever vidare. Denne nettsida er laga for å dokumentera sporten og halda historia levande for dei som kjem etter.</p>
+        <p class="body-text">Skathellekasting er ein av dei eldste steinkastesportane i Noreg, og i dag er det berre i Jostedalen tradisjonen lever vidare. Denne nettsida er laga for å dokumentere sporten og halde historia levande for dei som kjem etter.</p>
         <a href="historia.html" class="read-more" style="margin-top:2rem; display:inline-block;">Sjå historia og kjelder &#8594;</a>
       </div>
     </div>
@@ -142,37 +144,18 @@
   <!-- REGLAR -->
   <section class="section">
     <div class="container">
-      <div class="rules-wrap" data-reveal>
-        <span class="section-label">Reglar</span>
-        <h2 class="section-title" style="margin-bottom: 2.5rem;">Alt du treng å vita for å kaste skathelle</h2>
-
-        <div class="rule-block">
-          <h3>Bana</h3>
-          <p>25 meter lang med eit mål i kvar ende.</p>
+      <div class="two-col">
+        <div data-reveal>
+          <span class="section-label">Reglar</span>
+          <h2 class="section-title" style="margin-bottom: 1.5rem;">Alt du treng å vita for å kasta skathelle</h2>
+          <p class="body-text" style="margin-bottom: 2rem;">To lag, ei bane, og ein stein som skal nærast målet. Reglane er enkle — men det er ikkje lett å vinne.</p>
+          <a href="reglar.html" class="read-more">Les alle reglane &#8594;</a>
         </div>
-
-        <div class="rule-block">
-          <h3>Laga</h3>
-          <p>To lag med tre kastarar på kvart lag.</p>
+        <div data-reveal data-delay="2">
+          <button type="button" class="clipping-frame-inline" onclick="openReglarLightbox()" aria-label="Forstørr artikkelen om reglar">
+            <img src="Bilder/Reglar.png" alt="Artikkel om skathellekasting med illustrasjon av kastarar, om lag 1980" loading="lazy">
+          </button>
         </div>
-
-        <div class="rule-block">
-          <h3>Poeng</h3>
-          <ul class="rule-list">
-            <li>Nærmast mål utan treff: 1 poeng til næraste stein</li>
-            <li>Første stein som treff målet: 3 poeng</li>
-            <li>Andre stein som treff målet: 2 poeng</li>
-            <li>Ein må nøyaktig nå 5 poeng for å vinna eit sett</li>
-            <li>Overskrid ein 5 poeng, går ein i minus</li>
-          </ul>
-        </div>
-
-        <div class="rule-block">
-          <h3>Sett</h3>
-          <p>Første lag til 5 sett vinn kampen.</p>
-        </div>
-
-        <a href="reglar.html" class="read-more">Les alle reglane &#8594;</a>
       </div>
     </div>
   </section>
@@ -180,12 +163,17 @@
   <!-- SKATHELLA -->
   <section class="section section--alt">
     <div class="container">
-      <div data-reveal>
-        <span class="section-label">Skathella</span>
-        <h2 class="section-title">Form, vekt og grep</h2>
-        <p class="body-text">Ei skathelle skal vera rund og flat. For å få riktig fasong er det vanleg å spikka steinen slik ein ønskjer.</p>
-        <p class="body-text">Dei beste skathellene finn ein i elveleiet i Jostedalen — flate, runde steinar forma av isbre og elv over tusenvis av år.</p>
-        <a href="skathelle.html" class="read-more">Les meir om skathella &#8594;</a>
+      <div class="two-col">
+        <div data-reveal>
+          <span class="section-label">Skathella</span>
+          <h2 class="section-title">Form, vekt og grep</h2>
+          <p class="body-text">Ei skathelle skal vera rund og flat. For å få riktig fasong er det vanleg å spikka steinen slik ein ønskjer.</p>
+          <p class="body-text">Dei beste skathellene finn ein i elveleiet i Jostedalen — flate, runde steinar forma av isbre og elv over tusenvis av år.</p>
+          <a href="skathelle.html" class="read-more">Les meir om skathella &#8594;</a>
+        </div>
+        <div data-reveal data-delay="2" style="display:flex; justify-content:center; align-items:center;">
+          <img src="Bilder/favicon skathelle.png" alt="Ei skathelle — flat, rund stein brukt i skathellekasting" id="stein-float" style="width:70%; max-width:320px; display:block;" loading="lazy">
+        </div>
       </div>
     </div>
   </section>
@@ -254,6 +242,11 @@
       <p class="credit"><a href="https://norbergwebdesign.no" target="_blank" rel="noopener noreferrer">Nettside levert av Norberg Webdesign</a></p>
     </div>
   </footer>
+
+  <div class="lightbox" id="reglarLightbox" aria-hidden="true">
+    <button type="button" class="lightbox-close" id="reglarLightboxClose" aria-label="Lukk forstørra bilete">&times;</button>
+    <img src="Bilder/Reglar.png" alt="Artikkel om skathellekasting med illustrasjon av kastarar, om lag 1980" class="lightbox-img">
+  </div>
 
   <script src="script.js"></script>
 </body>

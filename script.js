@@ -491,3 +491,17 @@ function updateCountdown() {
 }
 updateCountdown();
 setInterval(updateCountdown, 1000);
+
+/* REGLAR LIGHTBOX */
+window.openReglarLightbox = function() {
+  const lb = document.getElementById('reglarLightbox');
+  if (lb) { lb.classList.add('is-open'); lb.setAttribute('aria-hidden', 'false'); }
+};
+
+const reglarLbClose = document.getElementById('reglarLightboxClose');
+const reglarLb = document.getElementById('reglarLightbox');
+if (reglarLbClose && reglarLb) {
+  reglarLbClose.addEventListener('click', () => { reglarLb.classList.remove('is-open'); reglarLb.setAttribute('aria-hidden','true'); });
+  reglarLb.addEventListener('click', e => { if (e.target === reglarLb) { reglarLb.classList.remove('is-open'); reglarLb.setAttribute('aria-hidden','true'); }});
+  document.addEventListener('keydown', e => { if (e.key === 'Escape') { reglarLb.classList.remove('is-open'); reglarLb.setAttribute('aria-hidden','true'); }});
+}
