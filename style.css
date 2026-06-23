@@ -1279,3 +1279,15 @@ a   { color: inherit; text-decoration: none; }
   text-transform: uppercase;
   color: var(--muted);
 }
+
+/* KART */
+.map-wrap {
+  border: 1px solid var(--border);
+  overflow: hidden;
+  line-height: 0;
+}
+.map-wrap iframe {
+  display: block;
+  width: 100%;
+  filter: grayscale(20%);
+}
