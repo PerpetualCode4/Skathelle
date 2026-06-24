@@ -473,7 +473,7 @@ if (magneImg) {
 }
 
 /* COUNTDOWN */
-const TARGET = new Date('2026-07-18T12:00:00');
+const TARGET = new Date('2026-07-18T13:30:00');
 function updateCountdown() {
   const diff = TARGET - new Date();
   if (diff <= 0) {
@@ -505,3 +505,17 @@ if (reglarLbClose && reglarLb) {
   reglarLb.addEventListener('click', e => { if (e.target === reglarLb) { reglarLb.classList.remove('is-open'); reglarLb.setAttribute('aria-hidden','true'); }});
   document.addEventListener('keydown', e => { if (e.key === 'Escape') { reglarLb.classList.remove('is-open'); reglarLb.setAttribute('aria-hidden','true'); }});
 }
+
+/* GROV LIGHTBOX */
+function openGrovLightbox() {
+  const lb = document.getElementById('grovLightbox');
+  if (lb) { lb.classList.add('is-open'); lb.setAttribute('aria-hidden','false'); }
+}
+document.addEventListener('DOMContentLoaded', () => {
+  const close = document.getElementById('grovLightboxClose');
+  const lb = document.getElementById('grovLightbox');
+  if (close && lb) {
+    close.addEventListener('click', () => { lb.classList.remove('is-open'); lb.setAttribute('aria-hidden','true'); });
+    lb.addEventListener('click', e => { if (e.target === lb) { lb.classList.remove('is-open'); lb.setAttribute('aria-hidden','true'); } });
+  }
+});

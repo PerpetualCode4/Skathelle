@@ -48,8 +48,9 @@
   </header>
 
   <!-- HERO -->
-  <div class="hero-inner">
-    <div class="container">
+  <div class="hero-inner hero-inner--img" style="background-image: url('Bilder/1985_Dolaheimen_skathellekastinga_sitt_mekka.png');">
+    <div class="hero-inner-overlay"></div>
+    <div class="container" style="position:relative; z-index:1;">
       <span class="hero-label">Skathellekasting</span>
       <h1>Historia</h1>
       <p class="lead">Skathellekasting har røter langt tilbake i Jostedalen.</p>
@@ -119,12 +120,38 @@
 
   <hr class="divider">
 
+  <section class="section">
+    <div class="container">
+      <div data-reveal style="margin-bottom: 3rem;">
+        <span class="section-label">Spelestadar</span>
+        <h2 class="section-title">Skathellebaner før i tida</h2>
+        <p class="body-text">Skathellekasting var ikkje berre knytt til Dølaheimen. Før i tida fanst det skathellebaner fleire stader i Sogn. Avisene dokumenterer konkurransar og oppvisingar i mellom anna Gaupne, Skjolden, Sogndal og Luster gjennom heile 1900-talet.</p>
+        <p class="body-text">Etter det som blir fortalt i bygda, var det òg skathellebane ved marki på Grov. På det gamle biletet under, teke kring 1930, ser ein gardane på Grov med Bergsetbreen i bakgrunnen.</p>
+      </div>
+
+      <figure data-reveal data-delay="1" style="margin: 0;">
+        <button type="button" class="clipping-frame-inline" onclick="openGrovLightbox()" aria-label="Forstørr biletet av Grov ca. 1930" style="width:100%;">
+          <img src="Bilder/Grov_ca_1930.jpg" alt="Gardane på Grov i Jostedalen, kring 1930, med Jostedalsbreen i bakgrunnen" class="img-filtered" style="width:100%;" loading="lazy">
+        </button>
+        <figcaption style="font-size:0.75rem; color:var(--muted); letter-spacing:0.1em; text-transform:uppercase; margin-top:0.875rem;">
+          Grov, kring 1930 — på marki her var det skathellebane før
+        </figcaption>
+      </figure>
+
+      <div class="placeholder-box" data-reveal data-delay="2" style="margin-top: 3rem;">
+        <p>Intervju med Olav Grov om skathellebaner før i tida kjem.</p>
+      </div>
+    </div>
+  </section>
+
+  <hr class="divider">
+
   <!-- KJELDER -->
   <section class="section">
     <div class="container">
       <div data-reveal>
         <span class="section-label">Kjelder</span>
-        <h2 class="section-title">Hjelp oss fylla inn historia</h2>
+        <h2 class="section-title">Hjelp oss fylle inn historia</h2>
         <p class="lead">Fleire historiske dokument og bilete kjem. Sit du på kjelder, foto eller resultat frå tidlegare år — ta gjerne kontakt.</p>
       </div>
     </div>
@@ -141,6 +168,11 @@
   <div class="lightbox" id="timelineLightbox" aria-hidden="true">
     <button type="button" class="lightbox-close" id="timelineLightboxClose" aria-label="Lukk forstørra bilete">&times;</button>
     <img src="" alt="" class="lightbox-img" id="timelineLightboxImg">
+  </div>
+
+  <div class="lightbox" id="grovLightbox" aria-hidden="true">
+    <button type="button" class="lightbox-close" id="grovLightboxClose" aria-label="Lukk forstørra bilete">&times;</button>
+    <img src="Bilder/Grov_ca_1930.jpg" alt="Gardane på Grov i Jostedalen, kring 1930" class="lightbox-img">
   </div>
 
   <script src="script.js"></script>
