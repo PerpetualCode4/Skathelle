@@ -272,6 +272,15 @@ const events = [
     url: null
   },
   {
+    year: 2022,
+    label: 'Meisterskap',
+    heading: 'Meisterskapet 2022',
+    body: 'Etter to år utan konkurranse på grunn av koronapandemien, kom skathellekastinga tilbake til marknadshelgi. Vinnarlag: Erling Sperle, Ingar Norberg og Nils Neset. Marknadssjef Henning Skjervik var aktivt med på bana.',
+    imgs: ['Bilder/2022_vinnarar.png'],
+    source: 'Foto: Olav Grov, 2022',
+    url: null
+  },
+  {
     year: 2023,
     label: 'Portrett',
     heading: 'Magne Hesjevoll — mannen bak tradisjonen',
@@ -279,6 +288,15 @@ const events = [
     imgs: ['Bilder/Magne_Hesjevoll_2023.jpg'],
     source: 'Foto: Jostedalen, 2023',
     url: null
+  },
+  {
+    year: 2023,
+    label: 'Meisterskap',
+    heading: 'Meisterskapet 2023',
+    body: 'Ein heil dag på skathellebana gav resultat. Vinnarlag: Arne Fossøy, Even Loe og Ingar Norberg. Sogn Avis lagar reportasje skriven av Magnus Grotle Førde.',
+    imgs: ['Bilder/2023_vinnarar.png'],
+    source: 'Foto: Sogn Avis, 2023',
+    url: 'https://www.sognavis.no/5-115-1021394'
   },
   {
     year: 2024,
