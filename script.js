@@ -247,8 +247,7 @@ const events = [
     heading: 'Meisterskapet 2015',
     body: 'Action frå bana med Jostedalfjella som bakteppe. Vinnarane tek imot krus med Jostedalen-motiv som premie. Eit typisk år ved Dølaheimen — folk samla, kastarar konsentrerte, og naturen rundt som ein storslått ramme rundt det heile.',
     imgs: [
-      'Bilder/2015_kast.jpg',
-      'Bilder/2015_vinnarar.jpg'
+      'Bilder/2015_kast.jpg'
     ],
     source: 'Foto: Olav Grov, 2015',
     url: null
@@ -326,7 +325,7 @@ const events = [
     year: 2026,
     label: 'Digital arv',
     heading: 'skathelle.no — sporten på nett',
-    body: 'Brage Norberg og Lars Andreas Myklebust Neset lanserer skathelle.no — eit komplett digitalt arkiv over skathellekasting i Jostedalen. Over 120 verifiserte avisartiklar frå 1957 til 2010 vert samla på ein stad, saman med moderne foto og dokumentasjon. Målet er å sikra at tradisjonen overlever og at nye generasjonar kan oppdaga sporten — uansett kvar dei er i verda.',
+    body: 'Brage Norberg og Lars Andreas Myklebust Neset lanserer skathelle.no — eit komplett digitalt arkiv over skathellekasting i Jostedalen. Over 120 verifiserte avisartiklar frå 1957 til 2026 vert samla på ein stad, saman med moderne foto og dokumentasjon. Målet er å sikra at tradisjonen overlever og at nye generasjonar kan oppdage sporten — uansett kvar dei er i verda.',
     imgs: [],
     source: 'Skathelle.no, juni 2026',
     url: null
