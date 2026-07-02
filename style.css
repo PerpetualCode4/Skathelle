@@ -931,6 +931,11 @@ a   { color: inherit; text-decoration: none; }
   padding: clamp(1.5rem, 4vw, 2.5rem);
 }
 
+.tl-content-inner--text-only {
+  grid-template-columns: 1fr;
+  max-width: 65ch;
+}
+
 .tl-content-year {
   font-family: var(--ff-display);
   font-size: clamp(2.5rem, 6vw, 4rem);
@@ -1055,9 +1060,13 @@ a   { color: inherit; text-decoration: none; }
   .tl-content-inner {
     grid-template-columns: 1fr;
     gap: 1.5rem;
+    overflow-wrap: break-word;
   }
   .tl-arrow {
     display: none;
+  }
+  .section {
+    padding-block: 3rem;
   }
 }
 

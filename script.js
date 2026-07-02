@@ -187,7 +187,7 @@ const events = [
     body: '"Skathellekastinga har lang tradisjon i Jostedalen, og det er viktig at me tek vare på denne artige aktiviteten." Dette er den fyrste skriftlege kjelda som datofester sporten — artikkelen dokumenterer at skathellekasting i Jostedalen truleg startar frå byrjinga av 1900-talet. Det var oftast karane som kasta, men jenter deltok òg i den årlege konkurransen. Bilettekst frå året: "Skathellekasting er spesielt for Jostedalen og mange deltok i den spennande konkurransen under marknadshelga."',
     imgs: [
       'Bilder/1999_om_skathellekasting.png',
-      'Bilder/1999_skathellebilde.png'
+      'Bilder/1999_skathellebilde_.png'
     ],
     source: 'Lokalavis, 1999',
     url: 'https://www.nb.no/items/a300c3b7f1871bf702db844c9cc85aa7?page=7&search='
@@ -258,7 +258,7 @@ const events = [
     label: 'Meisterskap',
     heading: 'Meisterskapet 2018',
     body: 'Tre vinnarar held skathellene sine mot kamera. Tribunen bak er full av tilskodarar — skathellekasting samlar framleis folk i Jostedalen. Bileta viser tydeleg at sporten ikkje berre er om vinnaren, men om fellesskapet rundt.',
-    imgs: ['Bilder/2018_vinnarar.jpg'],
+    imgs: ['Bilder/2018_vinnarar.png'],
     source: 'Foto: Olav Grov, 2018',
     url: null
   },
@@ -267,7 +267,7 @@ const events = [
     label: 'Meisterskap',
     heading: 'Meisterskapet 2019',
     body: 'Vinnarane fotografert med skathellene sine. Stort publikum i bakgrunnen vitnar om at tradisjonen framleis engasjerer breitt. Sporten har overlevd alle bølgjer av modernisering og held framleis på sin særeigne plass i Jostedalen sin kultur.',
-    imgs: ['Bilder/2019_vinnarar.jpg'],
+    imgs: ['Bilder/2019_vinnarar.png'],
     source: 'Foto: Olav Grov, 2019',
     url: null
   },
@@ -378,19 +378,20 @@ const events = [
     // Bygg innhald
     content.classList.remove('is-visible');
     setTimeout(() => {
-      const imgHTML = ev.imgs.length
+      const hasImgs = ev.imgs.length > 0;
+      const imgHTML = hasImgs
         ? `<div class="tl-imgs">${ev.imgs.map(src =>
             `<button class="tl-img-btn" onclick="openTlLightbox('${src}','${ev.heading.replace(/'/g,"\\'")}')">
                <img src="${src}" alt="${ev.heading}" loading="lazy">
              </button>`).join('')}</div>`
-        : `<div class="tl-no-img"><p>Bilete kjem</p></div>`;
+        : '';
 
       const linkHTML = ev.url
         ? `<a href="${ev.url}" class="tl-content-link" target="_blank" rel="noopener noreferrer">Les kjelda på nb.no &#8594;</a>`
         : '';
 
       content.innerHTML = `
-        <div class="tl-content-inner">
+        <div class="tl-content-inner${hasImgs ? '' : ' tl-content-inner--text-only'}">
           <div>
             <div class="tl-content-year">${ev.year}</div>
             <p class="tl-content-label">${ev.label}</p>
@@ -399,7 +400,7 @@ const events = [
             <p class="tl-content-source">${ev.source}</p>
             ${linkHTML}
           </div>
-          <div>${imgHTML}</div>
+          ${hasImgs ? `<div>${imgHTML}</div>` : ''}
         </div>`;
       content.classList.add('is-visible');
     }, 180);
