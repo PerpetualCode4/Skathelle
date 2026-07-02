@@ -1,15 +1,6 @@
 ﻿<!DOCTYPE html>
 <html lang="nn">
 <head>
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XVRD7QY3C5"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-XVRD7QY3C5');
-  </script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Skathellekasting i Jostedalen — historia, reglar og tradisjonen bak ein av Noregs eldste steinkastesportar.">
@@ -112,17 +103,12 @@
           <p class="body-text">Brage Norberg og Lars Andreas Myklebust Neset laga denne nettsida etter at Magne Hesjevoll introduserte oss for skathellekasting i Jostedalen. Det tok ikkje lang tid før me skjønte at dette var noko spesielt — og at for få visste om det.</p>
           <p class="body-text">Me stiller med lag i meisterskapet ved Dølaheimen, og me håpar fleire gjer det same. Skathellekasting passar for alle — uansett alder og bakgrunn. Det einaste du treng er ein god stein og lyst til å prøve.</p>
         </div>
-        <div data-reveal data-delay="2" class="magne-wrap">
-          <img
-            src="Bilder/2025_unge_utovarar.png"
-            alt="Brage Norberg, Jan Skamsar Aasen og Brage Åsen — unge utøvarar av skathellekasting"
-            id="magne-float"
-            loading="lazy"
-          >
-          <p style="font-size:0.75rem; color:var(--muted); letter-spacing:0.1em; text-transform:uppercase; margin-top:0.875rem;">
-            Unge utøvarar — Jostedalen 2025. Foto: Pål S. Bringe
-          </p>
-        </div>
+        <figure data-reveal data-delay="2" style="margin:0;">
+          <div class="img-wrap" style="aspect-ratio:4/3; overflow:hidden;">
+            <img src="Bilder/2023_kast.png" alt="Skathellekasting ved Dølaheimen" class="img-filtered" style="width:100%; height:100%; object-fit:cover;" loading="lazy">
+          </div>
+          <figcaption style="font-size:0.75rem; color:var(--muted); letter-spacing:0.1em; text-transform:uppercase; margin-top:0.875rem;">Skathellekasting ved Dølaheimen. Foto: Privat</figcaption>
+        </figure>
       </div>
     </div>
   </section>
@@ -324,5 +310,6 @@
   </div>
 
   <script src="script.js"></script>
+  <script defer src="/_vercel/insights/script.js"></script>
 </body>
 </html>

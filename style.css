@@ -1054,16 +1054,6 @@ a   { color: inherit; text-decoration: none; }
   }
 }
 
-/* MAGNE FLOAT */
-#magne-float {
-  transform: translateY(40px);
-  opacity: 0;
-  transition: transform 1.1s cubic-bezier(0.22, 1, 0.36, 1), opacity 0.9s ease;
-  filter: grayscale(15%) contrast(1.05);
-}
-#magne-float.is-visible { transform: translateY(0); opacity: 1; }
-
-
 /* ARKIV */
 
 .ark-filter {
@@ -1242,33 +1232,6 @@ a   { color: inherit; text-decoration: none; }
   inset: 0;
   background: rgba(24, 24, 21, 0.82);
   z-index: 0;
-}
-
-/* MAGNE WRAP RESPONSIV */
-.magne-wrap {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-}
-
-.magne-wrap img {
-  width: 100%;
-  max-width: 560px;
-  display: block;
-  margin-left: -5rem;
-}
-
-@media (max-width: 767px) {
-  .magne-wrap {
-    align-items: center;
-  }
-  .magne-wrap img {
-    margin-left: 0;
-    max-width: 320px;
-  }
-  .magne-wrap p {
-    text-align: center;
-  }
 }
 
 /* STEIN FLOAT */
