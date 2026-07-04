@@ -232,6 +232,22 @@ a   { color: inherit; text-decoration: none; }
 @media (prefers-reduced-motion: reduce) {
   .ticker-dot { animation: none; }
 }
+.ticker-text { flex: 1; }
+.ticker-btn {
+  border: 1px solid var(--accent, #c8a96e);
+  color: var(--accent, #c8a96e);
+  padding: 0.4rem 1rem;
+  white-space: nowrap;
+  transition: background 0.25s ease, color 0.25s ease;
+}
+.ticker:hover .ticker-btn {
+  background: var(--accent, #c8a96e);
+  color: var(--bg, #181815);
+}
+@media (max-width: 600px) {
+  .ticker { flex-wrap: wrap; gap: 0.5rem 0.75rem; }
+  .ticker-text { flex: 1 1 100%; }
+}
 
 .quicknav-section {
   background-color: var(--bg);
