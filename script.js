@@ -122,7 +122,7 @@ const events = [
     year: 1979,
     label: 'Fylkesmeisterskap',
     heading: 'For første gong: Fylkesmeisterskap',
-    body: 'Det fyrste fylkesmeisterskapet i skathellekasting vert halde 24.-26. august 1979 i samband med Husmannsdagane i Gaupne. Jostedal ungdomslag arrangerer saman med avisa Sogn og Fjordane. Banelengda vert sett til 20-23 meter. Stortingsmann Kåre Øvregard, sjølv frå Jostedalen, er kommentator. 7000 menneske var innom Husmannsdagane. Vinnarlaget vart erfarne jostedøler: Erik Fossen, Torleiv Vigdal og Per Bakken. VG, Bergens Tidende og Fjordingen skreiv alle om sporten same sommar — nasjonal merksemd for første gong.',
+    body: 'Det fyrste fylkesmeisterskapet i skathellekasting vert halde 24.-26. august 1979 i samband med Husmannsdagane i Gaupne. Jostedal ungdomslag arrangerer saman med avisa Sogn og Fjordane. Banelengda vert sett til 20-23 meter. Stortingsmann Kåre Øvregard, sjølv frå Jostedalen, er kommentator. 7000 menneske var innom Husmannsdagane. Vinnarlaget vart erfarne jostedøler: Erik Fossen, Torfinn Vigdal og Per Bakken. VG, Bergens Tidende og Fjordingen skreiv alle om sporten same sommar — nasjonal merksemd for første gong.',
     imgs: [
       'Bilder/1979_For_forste_gong_fylkesmesterskap_i_gaupne.png',
       'Bilder/1979_rutinerte_jostedoler.png',
