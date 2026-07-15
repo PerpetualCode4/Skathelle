@@ -133,6 +133,19 @@ const events = [
     url: 'https://www.nb.no/items/af3f6a7b2ccf15d72759a4a25bf78104?page=7&search='
   },
   {
+    year: 1984,
+    label: 'Historiske bilete',
+    heading: 'Skathellekasting i 1984',
+    body: 'Bilete frå skathellekasting i Jostedalen i 1984, teke av Solrun Neset og dokumenterte på Bakkebloggen. Bileta viser kastarar i aksjon, sikting og heile bana i bruk.',
+    imgs: [
+      'Bilder/Bakkebloggen/Bakkebloggen/1984%20-%20gammlekarane%20skal%20kaste.png',
+      'Bilder/Bakkebloggen/Bakkebloggen/1984%20-%20heilebana.png',
+      'Bilder/Bakkebloggen/Bakkebloggen/1984%20-%20nokon%20i%20kast.png',
+      'Bilder/Bakkebloggen/Bakkebloggen/1984%20-%20sikt.png'
+    ],
+    source: 'Foto: Solrun Neset / Bakkebloggen. Brukt med løyve.'
+  },
+  {
     year: 1985,
     label: 'Dølaheimen — mekka',
     heading: 'Skathellekastinga sitt mekka',
@@ -161,6 +174,24 @@ const events = [
     imgs: ['Bilder/1988_populaert_med_skathellekasting.png'],
     source: 'Sogningen-Sogns Avis, 1988',
     url: 'https://www.nb.no/items/408e4b7256ff0d66dbf47afc8583b7a1?page=3&search='
+  },
+  {
+    year: 1990,
+    label: 'Historiske bilete',
+    heading: 'Vinnarar og kastarar — 1990',
+    body: 'Frå skathellemeisterskapet i Jostedalen i 1990. Bileta viser kastarar i aksjon og vinnarlag med premiar — dokumentert av Solrun Neset på Bakkebloggen.',
+    imgs: [
+      'Bilder/Bakkebloggen/Bakkebloggen/1990%20-%20Mannlege%20vinnarar.png',
+      'Bilder/Bakkebloggen/Bakkebloggen/1990%20-%20gro%20kirsti%20sikta.png',
+      'Bilder/Bakkebloggen/Bakkebloggen/1990%20-%20karane%20skike.png',
+      'Bilder/Bakkebloggen/Bakkebloggen/1990%20-%20kvinnelege%20andre%20plass.png',
+      'Bilder/Bakkebloggen/Bakkebloggen/1990%20-%20kvinnlege%20vinnarar.png',
+      'Bilder/Bakkebloggen/Bakkebloggen/1990%20-%20mannleg%20andre%20plass.png',
+      'Bilder/Bakkebloggen/Bakkebloggen/1990%20-%20midt%20i%20eit%20kast.png',
+      'Bilder/Bakkebloggen/Bakkebloggen/1990%20-%20potensiellt%20r%C3%A5takast.png',
+      'Bilder/Bakkebloggen/Bakkebloggen/1990%20-%20sikt.png'
+    ],
+    source: 'Foto: Solrun Neset / Bakkebloggen. Brukt med løyve.'
   },
   {
     year: 1994,
@@ -218,6 +249,33 @@ const events = [
     imgs: ['Bilder/2007_skathellekurs.png'],
     source: 'Sogn Avis, 2007',
     url: 'https://www.nb.no/items/833745e7e63afea61d259e17fc66ea7c?page=15&search='
+  },
+  {
+    year: 2009,
+    label: 'Historiske bilete',
+    heading: 'Skathellekonkurransen i 2009',
+    body: 'Eit av dei rikaste biletgalleriane frå skathellekastinga i Jostedalen. Solrun Neset fotograferte og dokumenterte konkurransen i 2009 på Bakkebloggen — vinnarar, kastarar og publikum i frå same dag.',
+    imgs: [
+      'Bilder/Bakkebloggen/Bakkebloggen/2009%20-%20Even%20i%20kastet.png',
+      'Bilder/Bakkebloggen/Bakkebloggen/2009%20-%20Liv%20Anni%20kast.png',
+      'Bilder/Bakkebloggen/Bakkebloggen/2009%20-%20Ola%20slekt%20i%20kast.png',
+      'Bilder/Bakkebloggen/Bakkebloggen/2009%20-%20Olav.png',
+      'Bilder/Bakkebloggen/Bakkebloggen/2009%20-%20Svein%20Norberg.png',
+      'Bilder/Bakkebloggen/Bakkebloggen/2009%20-%20gammlekast.png',
+      'Bilder/Bakkebloggen/Bakkebloggen/2009%20-%20grautadama.png',
+      'Bilder/Bakkebloggen/Bakkebloggen/2009%20-%20grautakast.png',
+      'Bilder/Bakkebloggen/Bakkebloggen/2009%20-%20kast.png',
+      'Bilder/Bakkebloggen/Bakkebloggen/2009%20-%20kvinne%20kas.png',
+      'Bilder/Bakkebloggen/Bakkebloggen/2009%20-%20midt%20i%20eit%20kast.png',
+      'Bilder/Bakkebloggen/Bakkebloggen/2009%20-%20potensiellt%20r%C3%A5takast.png',
+      'Bilder/Bakkebloggen/Bakkebloggen/2009%20-%20premie.png',
+      'Bilder/Bakkebloggen/Bakkebloggen/2009%20-%20sikt.png',
+      'Bilder/Bakkebloggen/Bakkebloggen/2009%20-%20slag.png',
+      'Bilder/Bakkebloggen/Bakkebloggen/2009%20-%20stilpoeng%20i%20kastet.png',
+      'Bilder/Bakkebloggen/Bakkebloggen/2009%20-%20vinnarane.png',
+      'Bilder/Bakkebloggen/Bakkebloggen/2009%20-%20vinnarar%20damer.png'
+    ],
+    source: 'Foto: Solrun Neset / Bakkebloggen. Brukt med løyve.'
   },
   {
     year: 2010,
