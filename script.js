@@ -438,7 +438,7 @@ const events = [
       const hasImgs = ev.imgs.length > 0;
       const imgHTML = hasImgs
         ? `<div class="tl-imgs">${ev.imgs.map(src =>
-            `<button class="tl-img-btn" onclick="openTlLightbox('${src}','${ev.heading.replace(/'/g,"\\'")}')">
+            `<button class="tl-img-btn${src.includes('Bakkebloggen') ? ' tl-img-btn--color' : ''}" onclick="openTlLightbox('${src}','${ev.heading.replace(/'/g,"\\'")}')">
                <img src="${src}" alt="${ev.heading}" loading="lazy">
              </button>`).join('')}</div>`
         : '';

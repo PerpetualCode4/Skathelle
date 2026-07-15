@@ -1079,6 +1079,11 @@ a   { color: inherit; text-decoration: none; }
 
 .tl-img-btn:hover img { filter: grayscale(40%) contrast(1.05); }
 
+.tl-img-btn--color img { filter: contrast(1.05); }
+.tl-img-btn--color:hover img { filter: contrast(1.1); }
+
+.ticker + .ticker { border-top: none; }
+
 .tl-no-img {
   display: flex;
   align-items: center;
