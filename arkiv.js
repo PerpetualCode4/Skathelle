@@ -142,9 +142,11 @@ const arkivKjelder = [
       ? arkivKjelder
       : arkivKjelder.filter(k => String(Math.floor(k.ar / 10) * 10) === activeFilter);
 
-    count.textContent = `Viser ${filtered.length} av ${arkivKjelder.length} kjelder`;
+    const sorted = [...filtered].sort((a, b) => b.ar - a.ar);
 
-    grid.innerHTML = filtered.map(k => `
+    count.textContent = `Viser ${sorted.length} av ${arkivKjelder.length} kjelder`;
+
+    grid.innerHTML = sorted.map(k => `
       <article class="ark-card">
         <button class="ark-img-btn" onclick="openArkLightbox('Bilder/${k.fil}','${k.tittel.replace(/'/g,"\\'")}')">
           <img src="Bilder/${k.fil}" alt="${k.tittel}" loading="lazy" onerror="this.onerror=null;this.src='Bilder/UtenBilde.png';">
