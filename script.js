@@ -80,9 +80,9 @@ const events = [
     year: '1940/41',
     label: 'Første kjende foto',
     heading: 'Det eldste kjende fotografiet av skathellekasting',
-    body: 'Truleg det eldste kjende fotografiet av skathellekasting nokon gong er teke ved Fossøyane i Jostedalen, sommaren 1940 eller 1941. Biletet viser mellom andre Erik E. Fossøy (1866–1942) i ferd med å kaste, Jens Berdal (1913–1991), Hans Foss (1869–1958) og Erik Berdal (1938–1999). Fossøyane var ein viktig spelestad for skathellekasting i stordomstida — og dette biletet gjev oss eit unikt innblikk i korleis sporten såg ut på 1940-talet, fleire tiår før den eldste skriftlege kjelda vart funnen.',
+    body: 'Truleg det eldste kjende fotografiet av skathellekasting nokon gong er teke i Fossøyane i Jostedalen, sommaren 1940 eller 1941. Biletet viser mellom andre Erik E. Fossøy (1866–1942) i ferd med å kaste, Jens Berdal (1913–1991), Hans Foss (1869–1958) og Erik Berdal (1938–1999). Fossøyane var ein viktig spelestad for skathellekasting i stordomstida — og dette biletet gjev oss eit unikt innblikk i korleis sporten såg ut på 1940-talet, fleire tiår før den eldste skriftlege kjelda vart funnen.',
     imgs: ['Bilder/1940_Eller_1941_Bilde_Til_Historia.jpg'],
-    source: 'Privat foto, teke ved Fossøyane i Jostedalen. Tekst: Olav Grov.',
+    source: 'Privat foto, teke i Fossøyane i Jostedalen. Tekst: Olav Grov.',
     url: null
   },
   {

@@ -233,24 +233,25 @@
   <script>
     function openBbLightbox(src, alt) {
       const lb = document.getElementById('bbLightbox');
-      const img = document.getElementById('bbLightboxImg');
-      img.src = src;
-      img.alt = alt || '';
+      document.getElementById('bbLightboxImg').src = src;
+      document.getElementById('bbLightboxImg').alt = alt || '';
+      lb.classList.add('is-open');
       lb.setAttribute('aria-hidden', 'false');
       document.body.style.overflow = 'hidden';
     }
-    document.getElementById('bbLightboxClose').addEventListener('click', function () {
+    function closeBbLightbox() {
       const lb = document.getElementById('bbLightbox');
+      lb.classList.remove('is-open');
       lb.setAttribute('aria-hidden', 'true');
       document.getElementById('bbLightboxImg').src = '';
       document.body.style.overflow = '';
-    });
+    }
+    document.getElementById('bbLightboxClose').addEventListener('click', closeBbLightbox);
     document.getElementById('bbLightbox').addEventListener('click', function (e) {
-      if (e.target === this) {
-        this.setAttribute('aria-hidden', 'true');
-        document.getElementById('bbLightboxImg').src = '';
-        document.body.style.overflow = '';
-      }
+      if (e.target === this) closeBbLightbox();
+    });
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape') closeBbLightbox();
     });
   </script>
   <script defer src="/_vercel/insights/script.js"></script>
