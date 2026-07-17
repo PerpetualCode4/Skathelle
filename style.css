@@ -84,12 +84,14 @@ a   { color: inherit; text-decoration: none; }
   flex-shrink: 0;
   display: flex;
   align-items: center;
-  gap: 0.45em;
+  gap: 0.3em;
 }
 .logo-icon {
-  height: 2.75em;
+  height: 2.4em;
   width: auto;
   display: block;
+  position: relative;
+  top: 0.25em;
 }
 
 .nav {
