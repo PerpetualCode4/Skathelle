@@ -163,9 +163,9 @@
           <p class="body-text">Det fanst ikkje noko fast bane — ein kasta "overalt, på vegen, på grasmark eller i ein åker", og brukte steinar som mål der terrenget passa. Premiane var enkle den gongen: kokt egg, kaffi, mjølk eller sjokolade. I dag har premiane endra seg med tida — no er det vanlegare med t-skjorter, twistsjokolade eller ein kopp med Jostedalen-motiv. Tre mann på kvart lag, og same poengsystem som i dag.</p>
           <p class="body-text">Artikkelen oppmodar òg jentene i Jostedalen til å "stille sterkare opp" i konkurransane — eit tidsbilde frå ei tid då skathellekasting i hovudsak var dominert av karane.</p>
         </div>
-        <div class="img-wrap" style="overflow:hidden;">
+        <button type="button" class="clipping-frame-inline" onclick="openReglarLightbox()" aria-label="Forstørr biletet av regelarket" style="width:100%;">
           <img src="Bilder/Reglar.png" alt="Artikkel om skathellekasting med illustrasjon av kastarar, om lag 1980" class="img-filtered" style="width:100%; display:block;" loading="lazy">
-        </div>
+        </button>
       </div>
     </div>
   </section>
@@ -190,7 +190,33 @@
     </div>
   </footer>
 
+  <div class="lightbox" id="reglarLightbox" aria-hidden="true">
+    <button type="button" class="lightbox-close" id="reglarLightboxClose" aria-label="Lukk forstørra bilete">&times;</button>
+    <img src="Bilder/Reglar.png" alt="Artikkel om skathellekasting med illustrasjon av kastarar, om lag 1980" class="lightbox-img">
+  </div>
+
   <script src="script.js"></script>
+  <script>
+    function openReglarLightbox() {
+      const lb = document.getElementById('reglarLightbox');
+      lb.classList.add('is-open');
+      lb.setAttribute('aria-hidden', 'false');
+      document.body.style.overflow = 'hidden';
+    }
+    function closeReglarLightbox() {
+      const lb = document.getElementById('reglarLightbox');
+      lb.classList.remove('is-open');
+      lb.setAttribute('aria-hidden', 'true');
+      document.body.style.overflow = '';
+    }
+    document.getElementById('reglarLightboxClose').addEventListener('click', closeReglarLightbox);
+    document.getElementById('reglarLightbox').addEventListener('click', function (e) {
+      if (e.target === this) closeReglarLightbox();
+    });
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape') closeReglarLightbox();
+    });
+  </script>
   <script defer src="/_vercel/insights/script.js"></script>
 </body>
 </html>
