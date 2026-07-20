@@ -558,7 +558,7 @@ if (magneImg) {
 }
 
 /* COUNTDOWN */
-const TARGET = new Date('2027-07-18T13:30:00');
+const TARGET = new Date('2027-07-17T13:30:00');
 function updateCountdown() {
   const diff = TARGET - new Date();
   if (diff <= 0) {
