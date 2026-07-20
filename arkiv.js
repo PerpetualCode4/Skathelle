@@ -130,7 +130,7 @@ const arkivKjelder = [
   { ar: 2025, fil: '2025_unge_utovarar.png', tittel: 'Marknad og ein særs sjeldan sport — "Eg hugsar aldri reglane"', avis: 'Sogn Avis', samandrag: 'Reportasje om unge utøvarar — Jan Skamsar Aasen, Brage Norberg og Brage Aasen. Vinnarlag 2025: Per Bakkane, Svein Vigdal og Ivar Karlsen. Foto: Pål S. Bringe. Tilleggskjelde: JSA nr. 44, 2025.', url: '' },
   { ar: 2026, fil: 'Vinnarane_2026.jpg', tittel: 'Vinnarlaget 2026: Nils Neset, Steinar Halveg og Ingar Norberg', avis: 'Privat foto', samandrag: 'Vinnarlaget 2026: Nils Neset, Steinar Halveg og Ingar Norberg. Foto: Ingrid Ruud.', url: '' },
   { ar: 2026, fil: 'Andreplass_2026.jpg', tittel: 'Andreplass 2026: Einar Fossøy, Endre Synnevåg og Torkjell Vigdal', avis: 'Privat foto', samandrag: 'Andreplass 2026: Einar Fossøy, Endre Synnevåg og Torkjell Vigdal. Foto: Ingrid Ruud.', url: '' },
-  { ar: 2026, fil: 'Veldig_Bra_Runde_Finalen.jpg', tittel: 'Frå finalen 2026 — heller tett inntil målet', avis: 'Privat foto', samandrag: 'Frå finalen 2026 — heller tett inntil målet. Foto: Ingrid Ruud.', url: '' }
+  { ar: 2026, fil: 'Veldig_Bra_Runde_Finalen.jpg', tittel: 'Gode kast i finalen 2026', avis: 'Privat foto', samandrag: 'Frå finalen under marknaden 18. juli 2026.', url: '' }
 ];
 
 (function() {
