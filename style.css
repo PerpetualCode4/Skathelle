@@ -1427,3 +1427,30 @@ a   { color: inherit; text-decoration: none; }
   width: 100%;
   filter: grayscale(20%);
 }
+.map-consent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+  width: 100%;
+  min-height: 450px;
+  padding: 2rem;
+  background: var(--bg-card);
+  border: none;
+  cursor: pointer;
+  text-align: center;
+  line-height: 1.5;
+  transition: background 0.2s ease;
+}
+.map-consent:hover { background: #2a2a27; }
+.map-consent-title {
+  font-family: var(--ff-display);
+  font-size: 1.4rem;
+  color: var(--accent);
+}
+.map-consent-note {
+  max-width: 34ch;
+  font-size: 0.85rem;
+  color: var(--muted);
+}

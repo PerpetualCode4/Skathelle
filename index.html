@@ -13,6 +13,7 @@
   <title>Skathelle.no — Jostedalen sin nasjonalsport</title>
   <link href="fonts/fonts.css" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
   <link rel="apple-touch-icon" href="apple-touch-icon.png">
 </head>
@@ -241,16 +242,11 @@
         <p class="body-text">Meisterskapet vert halde ved Dølaheimen ungdomshus, Krekane 79 i Jostedalen.</p>
       </div>
       <div class="map-wrap" data-reveal data-delay="1">
-        <iframe
-          src="https://www.google.com/maps?q=Krekane+79,+6871+Jostedalen&t=k&z=15&output=embed"
-          width="100%"
-          height="450"
-          style="border:0;"
-          allowfullscreen=""
-          loading="lazy"
-          referrerpolicy="no-referrer-when-downgrade"
-          title="Kart over Dølaheimen i Jostedalen">
-        </iframe>
+        <button type="button" class="map-consent" id="mapConsent"
+          data-src="https://www.google.com/maps?q=Krekane+79,+6871+Jostedalen&t=k&z=15&output=embed">
+          <span class="map-consent-title">Vis kart</span>
+          <span class="map-consent-note">Kartet kjem frå Google Maps. Trykk for å laste det. Google kan då lagre informasjonskapslar.</span>
+        </button>
       </div>
     </div>
   </section>
