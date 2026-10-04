@@ -604,3 +604,21 @@ document.addEventListener('DOMContentLoaded', () => {
     lb.addEventListener('click', e => { if (e.target === lb) { lb.classList.remove('is-open'); lb.setAttribute('aria-hidden','true'); } });
   }
 });
+
+/* KART — last Google Maps berre når brukaren trykkjer (samtykke) */
+document.addEventListener('DOMContentLoaded', () => {
+  const btn = document.getElementById('mapConsent');
+  if (!btn) return;
+  btn.addEventListener('click', () => {
+    const iframe = document.createElement('iframe');
+    iframe.src = btn.dataset.src;
+    iframe.width = '100%';
+    iframe.height = '450';
+    iframe.style.border = '0';
+    iframe.allowFullscreen = true;
+    iframe.loading = 'lazy';
+    iframe.referrerPolicy = 'no-referrer-when-downgrade';
+    iframe.title = 'Kart over Dølaheimen i Jostedalen';
+    btn.replaceWith(iframe);
+  });
+});
